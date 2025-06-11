@@ -1,0 +1,10 @@
+# Base ----------------------------------------
+python-dotenv
+spotipy
+pandas
+matplotlib
+SQLAlchemy
+requests
+sqlalchemy
+psycopg2-binary
+
